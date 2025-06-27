@@ -1,6 +1,7 @@
 # dice-game
 It is basically simple fun dice game .
 
+```python
 import random
 
 count =0
@@ -21,6 +22,4 @@ while True and count <= 2:
 
 if count == 3:
     print("game over")
-
-
-
+```
