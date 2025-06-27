@@ -6,7 +6,6 @@ while True:
     try:
         user_input = int(input("guess the number in b/w 0-100: "))
 
-
         if user_input > randomNum+10:
             print("too big")
         
